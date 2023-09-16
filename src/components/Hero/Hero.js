@@ -15,7 +15,7 @@ const Hero = (props) => (
         Myself Bagio, <br/>
         who loves programming and have a passion for developing web and mobile applications  
       </SectionText>
-      <Button onClick={() => window.open("https://github.com/bxgio/My-Personal-Profile", "_blank")}>Learn More</Button>
+      <Button onClick={() => window.open("https://github.com/bxgio/bxgio", "_blank")}>Learn More</Button>
     </LeftSection>
   </Section>
 );

@@ -25,11 +25,7 @@ const Header = () =>  (
           <NavLink>Skills</NavLink>
         </Link>
       </li>
-      <li>
-        <Link href="#about">
-          <NavLink>Certifications</NavLink>
-        </Link>
-      </li>
+      
       {/* New link for Contact */}
       <li>
         <Link href="#footer">

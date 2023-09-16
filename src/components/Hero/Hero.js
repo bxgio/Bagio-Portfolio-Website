@@ -12,7 +12,8 @@ const Hero = (props) => (
          My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Something about Bagio
+        Myself Bagio, <br/>
+        who loves programming and have a passion for developing web and mobile applications  
       </SectionText>
       <Button onClick={() => window.open("https://github.com/bxgio/My-Personal-Profile", "_blank")}>Learn More</Button>
     </LeftSection>

@@ -53,12 +53,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>Certifications</SectionTitle>
       <SectionText>
-      React Native Specialization course By META &nbsp;&nbsp;<a href="#" style={linkStyle}>View Certificate</a><br />
-      Python for data science by Swayam NPTEL &nbsp;&nbsp;<a href="#" style={linkStyle}>View Certificate</a><br />
-      Programming in Javascript by META &nbsp;&nbsp;<a href="#" style={linkStyle}>View Certificate</a><br />
-      Python for machine learning by IBM &nbsp;&nbsp;<a href="#" style={linkStyle}>View Certificate</a><br />
-      SQL certification test by HackerRank &nbsp;&nbsp;<a href="#" style={linkStyle}>View Certificate</a><br />
-      Python certification test by HackerRank &nbsp;&nbsp;<a href="#" style={linkStyle}>View Certificate</a><br />
+      React Native Specialization course By META &nbsp;&nbsp;<a href="https://drive.google.com/file/d/1r5RzUU9Ypk0OFPAbcZrXtt7_TYViKTMe/view?usp=drive_link" target='_blank' style={linkStyle}>View Certificate</a><br />
+      Programming in Javascript by META &nbsp;&nbsp;<a href="https://drive.google.com/file/d/1BG0fShzcGeIXm62znJZN6jy7o1s5VdBe/view?usp=drive_link" target='_blank' style={linkStyle}>View Certificate</a><br />
+      Python for machine learning by IBM &nbsp;&nbsp;<a href="https://drive.google.com/file/d/1aqQleqoDeBbjOKZ40td2U-2RK0saDL2l/view?usp=drive_link" target='_blank' style={linkStyle}>View Certificate</a><br />
+      SQL certification test by HackerRank &nbsp;&nbsp;<a href="https://drive.google.com/file/d/1luhEqze21P3qW_RMYGdnnz6VqRPeDE5L/view?usp=drive_link" target='_blank' style={linkStyle}>View Certificate</a><br />
+      Python certification test by HackerRank &nbsp;&nbsp;<a href="https://drive.google.com/file/d/1PdNzuRz_VJiJrvP2hZ9P_LxU6Z4QRY3F/view?usp=drive_link" target='_blank' style={linkStyle}>View Certificate</a><br />
 </SectionText>
 
       <br/><br/>

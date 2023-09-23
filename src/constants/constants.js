@@ -5,7 +5,7 @@ export const projects = [
     image: '../../images/php1.png',
     tags: ['PHP', 'Bootstrap', 'HTML', 'MySql'],
     source: 'https://github.com/bxgio/sjc-jobs',
-    visit: 'https://google.com',
+    visit: 'https://sjcjobportal.000webhostapp.com/home.php',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '../../images/native1.png',
     tags: ['React Native','Axios','Rapid API'],
     source: 'https://github.com/bxgio/React_Native-job-portal',
-    visit: 'https://google.com',
+    visit: 'https://drive.google.com/file/d/1NgpHczXQ4Qvt6fNQPZlrbiIVJfT_VUmE/view?usp=sharing',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '../../images/react1.png',
       tags: ['React', 'Nextjs'],
     source: 'https://github.com/bxgio/Bagio-Portfolio-Website',
-    visit: 'https://google.com',
+    visit: 'https://bxgio.github.io/Bagio-Portfolio-Website/',
     id: 2,
   },
   

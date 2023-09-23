@@ -14,7 +14,7 @@ export const projects = [
     image: '../../images/native1.png',
     tags: ['React Native','Axios','Rapid API'],
     source: 'https://github.com/bxgio/React_Native-job-portal',
-    visit: 'https://drive.google.com/file/d/1HdLVxHgIPsl9FHT0iJuOLecO3Vm4nRzA/view?usp=sharing',
+    visit: 'https://drive.google.com/file/d/1HdLVxHgIPsl9FHT0iJuOLecO3Vm4nRzA/view?usp=drive_link',
     id: 1,
   },
   {

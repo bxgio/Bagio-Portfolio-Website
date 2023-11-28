@@ -2,5 +2,4 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-
-my projecr
+Example image of my portfolio 
